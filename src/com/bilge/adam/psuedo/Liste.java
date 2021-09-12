@@ -8,7 +8,7 @@ public class Liste {
 
 		int distanceAStart = 0, distanceAStop = 0, distanceIStart = 0, distanceIStop = 0;
 
-		String[] vocabularySplitArr = vocabulary.split(""); //
+		String[] vocabularySplitArr = vocabulary.split(""); // asd
 		// System.out.println(vocabularySplitArr[1]);
 
 		String[] vowel = { "A", "E", "I", "O", "U" }; // sesli
